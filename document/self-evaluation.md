@@ -2,6 +2,8 @@
 **Student ID:** 22120157  
 **Project:** Tic-Tac-Toe Game with React
 
+**Link github:** https://github.com/NKhank11/IA01---React-Tutorial
+
 ### Feature 1: Current Move Display (1.8/1.8 points)
 -  **Status:** Completed ✅
 - **Implementation:** Display "You are at move #..." for current move instead of button
@@ -25,6 +27,6 @@
 ### Feature 6: Public Host Upload (1/1 point)
 - **Status:** Completed ✅
 - **Implementation:** Deploy to Vercel via GitHub
-- **Link:** 
+- **Link host:** https://22120157-ia-01-react-tutorial-ashy.vercel.app/
 
 ## Total Self-Assessment: 10/10 points

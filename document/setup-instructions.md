@@ -26,3 +26,4 @@
 
 ## Deployment
 - Using Vercel + Github. Upload project to Github and connect this repository to Vercel
+- Link: https://22120157-ia-01-react-tutorial-ashy.vercel.app/
